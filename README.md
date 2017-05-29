@@ -2,7 +2,7 @@
 <br />
 End goal to build up dashboard for novara team bringing in social media, website and subscriber data (podcast too if possible).<br />
 <br />
-In Progress:
+In Progress: <br />
 - Facebook Post Engagement
 
 <br /><br />
